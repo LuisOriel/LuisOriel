@@ -1,6 +1,6 @@
 ### Eae! Eu sou o LuisOriel, criador de conteúdo e amante da tecnologia! 👋
 
-- 🔭 Hoje trabalho como Expedidor
+- 🔭 Hoje trabalho como Auxiliar de Produção I
 - 🌱 Estudando Infra: Linux 
 
 <div align="center">
