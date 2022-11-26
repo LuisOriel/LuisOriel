@@ -1,7 +1,7 @@
 ### Eae! Eu sou o LuisOriel, criador de conteúdo e amante da tecnologia! 👋
 
-- 🔭 Hoje trabalho como Auxiliar de Produção I
-- 🌱 Estudando Infra: Linux 
+- 🔭  trabalho no setor de Montagem 
+- 🌱 Estudando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/LuisOriel">
