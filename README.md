@@ -1,4 +1,4 @@
-### Eae! Eu sou o LuisOriel, criador de conteúdo e amante da tecnologia! 👋
+### Eae! Eu sou o Luis Oriel, criador de conteúdo e amante da tecnologia! 👋
 
 - 🔭  trabalho no área de Suporte Técnico 
 - 🌱 Estudante de Engenharia de Software
